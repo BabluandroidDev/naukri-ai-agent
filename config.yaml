@@ -1,0 +1,35 @@
+# Add one or more Naukri search result URLs.
+search_urls:
+  - "https://www.naukri.com/android-developer-jobs"
+  - "https://www.naukri.com/full-stack-developer-jobs"
+  - "https://www.naukri.com/mobile-app-engineer-jobs"
+  - "https://www.naukri.com/flutter-developer-jobs"
+
+# Minimum AI match score required before a job can be considered for apply.
+min_match_score: 75
+
+# Hard safety cap for final submitted applications per local day.
+max_applications_per_day: 10
+
+# Leave empty to allow all locations. Matching also considers profile.preferred_locations.
+allowed_locations:
+  - "Remote"
+  - "Bengaluru"
+  - "Hyderabad"
+  - "Pune"
+  - "Mumbai"
+  - "Delhi NCR"
+
+# Companies listed here are skipped before apply.
+blacklisted_companies: []
+
+# Safe defaults.
+auto_submit: false
+dry_run: true
+skip_external_apply: true
+skip_unknown_questions: true
+skip_captcha: true
+browser_headless: false
+
+# Be polite and avoid rapid repeated actions.
+delay_seconds_between_jobs: 8

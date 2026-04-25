@@ -1,0 +1,49 @@
+{
+  "name": "Bablu Gupta",
+  "total_experience_years": 5,
+  "current_ctc": "6 LPA",
+  "expected_ctc": "10 LPA",
+  "notice_period": "30 days",
+  "preferred_roles": [
+    "Android Developer",
+    "Fullstack Developer",
+    "Mobile App Engineer",
+    "Flutter Developer"
+  ],
+  "skills": [
+    "Python",
+    "FastAPI",
+    "Django",
+    "REST APIs",
+    "Playwright",
+    "Selenium",
+    "PostgreSQL",
+    "Docker",
+    "AWS",
+    "OpenAI API",
+    "Android Development",
+    "Flutter",
+    "Kotlin",
+    "Java",
+    "PHP",
+    "JavaScript",
+    "React",
+    "Next.js"
+  ],
+  "preferred_locations": [
+    "Remote",
+    "Bengaluru",
+    "Hyderabad",
+    "Pune",
+    "Delhi NCR"
+  ],
+  "resume_summary": "Python automation engineer with experience building backend services, browser automation, data pipelines, and AI-assisted workflows.",
+  "industries": [
+    "SaaS",
+    "IT Services",
+    "FinTech",
+    "AI/ML"
+  ],
+  "companies_to_avoid": [],
+  "work_mode_preference": "Remote or hybrid"
+}

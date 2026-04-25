@@ -1,0 +1,9 @@
+2026/04/25-11:19:58.756 105f0 Reusing MANIFEST /Volumes/Data/Bablu/Python/naukri-ai-agent/data/browser-profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/04/25-11:19:58.759 105f0 Recovering log #3
+2026/04/25-11:19:58.760 105f0 Reusing old log /Volumes/Data/Bablu/Python/naukri-ai-agent/data/browser-profile/Default/Local Storage/leveldb/000003.log 
+2026/04/25-11:20:11.459 105f0 Level-0 table #5: started
+2026/04/25-11:20:11.463 105f0 Level-0 table #5: 102445 bytes OK
+2026/04/25-11:20:11.465 105f0 Delete type=0 #3
+2026/04/25-11:20:44.361 105f3 Level-0 table #7: started
+2026/04/25-11:20:44.369 105f3 Level-0 table #7: 106388 bytes OK
+2026/04/25-11:20:44.373 105f3 Delete type=0 #4
